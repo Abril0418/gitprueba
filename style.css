@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(118, 231, 231);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 0;
+    border: 0;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 1rem; /*separa los elementos*/
+}
+
+main{
+    display: flex;
+    gap: 1rem;
+    padding: 2rem;
+}
